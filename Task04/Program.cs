@@ -22,5 +22,5 @@ if (c > max)
     max = c;
 }
 
-Console.Write("Максимальное из трех чисел, ");
+Console.Write("Максимальное из трех чисел это ");
 Console.Write(max);
